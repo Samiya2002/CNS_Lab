@@ -2,7 +2,7 @@
 
 This repository contains Java implementations of various cryptographic algorithms and security-related concepts for the Computer and Network Security Lab.
 
-## Files:
+## Programs:
 
 1. **AES.java**
    - Implementation of the AES (Advanced Encryption Standard) algorithm.
