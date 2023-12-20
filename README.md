@@ -5,40 +5,43 @@ This repository contains Java implementations of various cryptographic algorithm
 ## Programs:
 
 1. **AES.java**
-   - Implementation of the AES (Advanced Encryption Standard) algorithm.
-  
+   - Implementation of the Advanced Encryption Standard (AES) algorithm.
+
 2. **Blowfish.java**
-   - Implementation of the Blowfish encryption algorithm.
+   - Implementation of the Blowfish algorithm.
 
 3. **CaesarCipher.java**
-   - Implementation of the Caesar Cipher encryption algorithm.
+   - Implementation of the Caesar Cipher algorithm.
 
 4. **DES.java**
-   - Implementation of the DES (Data Encryption Standard) algorithm.
+   - Implementation of the Data Encryption Standard (DES) algorithm.
 
-5. **DiffieHellman.java**
+5. **DESTwoThree.java**
+   - Another implementation of the DES algorithm.
+
+6. **DiffieHellman.java**
    - Implementation of the Diffie-Hellman key exchange algorithm.
 
-6. **DigitalSignature.java**
-   - Implementation of digital signature generation and verification.
+7. **DigitalSignature.java**
+   - Implementation of digital signatures for data integrity and authentication.
 
-7. **MD5Example.java**
-   - Example of using the MD5 (Message Digest 5) hash function.
+8. **MD5Example.java**
+   - Implementation demonstrating the use of the MD5 hashing algorithm.
 
-8. **RC4.java**
-   - Implementation of the RC4 encryption algorithm.
+9. **RC4.java**
+   - Implementation of the RC4 stream cipher algorithm.
 
-9. **README.md**
-   - This file. Provides an overview of the repository and its contents.
+10. **README.md**
+    - This readme file providing an overview of the repository.
 
-10. **RSA.java**
-    - Implementation of the RSA (Rivest-Shamir-Adleman) algorithm.
+11. **RSA.java**
+    - Implementation of the RSA algorithm for public-key cryptography.
 
-11. **SHA1Example.java**
-    - Example of using the SHA-1 (Secure Hash Algorithm 1) hash function.
+12. **SHA1Example.java**
+    - Implementation demonstrating the use of the SHA-1 hashing algorithm.
 
-12. **SubstitutionCipher.java**
-    - Implementation of the Substitution Cipher encryption algorithm.
+13. **SubstitutionCipher.java**
+    - Implementation of a Substitution Cipher.
 
 ## Usage:
 
